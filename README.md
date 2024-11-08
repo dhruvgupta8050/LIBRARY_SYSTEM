@@ -1,6 +1,6 @@
-                                                                    CHAPTER-1
+CHAPTER-1
 
-                                                                    INTRODUCTION
+INTRODUCTION
 This chapter gives an overview about the aim , objectives ,background and operation environment, project benefits of the system.
 1.1 PROJECT AIM
 The project aims and objectives that will be achieved after completion of this project are discussed in this subchapter. The aims and objectives are as follows: 
@@ -32,7 +32,7 @@ HARD DISK SPACE 	MINIMUM 3 GB FOR DATABASE USAGE FOR FUTURE
 DATABASE 	MY SQL 
 
 
-                                        CHAPTER-2
+CHAPTER-2
 SYSTEM IMPLEMENTATION
 
 2.1 GANTT CHART
@@ -109,7 +109,7 @@ DELIVERY REQUIREMENTS
 The whole system is expected to be delivered in six months of time with a weekly evaluation by the project guide. 
 
 3.1.3.2 FUNCTIONAL REQUIREMENTS 
-1.	    NORMAL USER 
+1.NORMAL USER 
  
 1.1	USER LOGIN 
 Description  of   feature 
@@ -226,10 +226,9 @@ The Tk class is instantiated without arguments. This creates a toplevel widget o
 
 
 
-                                                                      CHAPTER-5
+ CHAPTER-5
 
-
-                                                                CONCLUSION & FUTURE SCOPE
+  CONCLUSION & FUTURE SCOPE
 
 
  
@@ -243,12 +242,12 @@ There is a future scope  of this facility that many more features such as online
 
 
 
-                                                                                      CHAPTER 6 
+ CHAPTER 6 
 
-                                                                                      REFERENCES 
+ REFERENCES 
 
-•	Code With Harry 
-•	https://www.w3schools.com/python/
+•       Code With Harry 
+•       https://www.w3schools.com/python/
 •	https://www.tutorialspoint.com/python/python_modules.htm
 •	https://pypi.org/
 •	http://www.techaccess.co.in/
@@ -257,7 +256,7 @@ There is a future scope  of this facility that many more features such as online
 •	https://docs.python.org/3/library/tkinter.html
 •	Yashwant Kanethkar Python Book
 
-
+								This Product is Maded by DHRUV GUPTA
 
 
 
