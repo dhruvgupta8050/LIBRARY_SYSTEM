@@ -195,27 +195,27 @@ The Tk class is instantiated without arguments. This creates a toplevel widget o
 		Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.
 3.4.3 Python Modules
 	A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand and use. A module is a Python object with arbitrarily named attributes that you can bind and reference.  
-                                                                                  CHAPTER-4
-                                                                            SYSTEM IMPLEMENTATION
-                                                                            Student Details:-
-                                                                            ![image](https://github.com/user-attachments/assets/8c1c4ee5-218b-4c31-ba0e-184a32f78349)
-                                                                              BOOK DETAILS:-
-                                                               ![image](https://github.com/user-attachments/assets/8bdb3f1f-2b9e-403e-be30-420cd66ab60d)
-                                                                              ADD BOOKS:-
-                                                                              ![image](https://github.com/user-attachments/assets/2aa445cc-2083-461d-8133-02a7f0d95db5)
-                                                                              ADD STUDENTS:-
-                                                                              ![image](https://github.com/user-attachments/assets/0f5922c6-9cb3-495d-a237-0b7e0849a696)
-                                                                              CALCULATE FINE UPDATE:- 
-                                                                              ![image](https://github.com/user-attachments/assets/41392cb9-ef7c-4de9-9d5b-12685d04e123)
-                                                                              CHECK BOOK LIST FOR STUDENT ISSUE :- 
-                                                                              ![image](https://github.com/user-attachments/assets/a7606c0d-3b80-47d5-8842-baf7a638b31e)
+CHAPTER-4
+SYSTEM IMPLEMENTATION:-
+Student Details:-
+ ![image](https://github.com/user-attachments/assets/8c1c4ee5-218b-4c31-ba0e-184a32f78349)
+ BOOK DETAILS:-
+![image](https://github.com/user-attachments/assets/8bdb3f1f-2b9e-403e-be30-420cd66ab60d)
+ADD BOOKS:-
+![image](https://github.com/user-attachments/assets/2aa445cc-2083-461d-8133-02a7f0d95db5)
+ADD STUDENTS:-
+![image](https://github.com/user-attachments/assets/0f5922c6-9cb3-495d-a237-0b7e0849a696)
+CALCULATE FINE UPDATE:- 
+![image](https://github.com/user-attachments/assets/41392cb9-ef7c-4de9-9d5b-12685d04e123)
+CHECK BOOK LIST FOR STUDENT ISSUE :- 
+![image](https://github.com/user-attachments/assets/a7606c0d-3b80-47d5-8842-baf7a638b31e)
 
-                                                                              DELETE STUDENTS DETAILS: - 
-                                                                              ![image](https://github.com/user-attachments/assets/b94f243d-fdf0-4924-bcad-8e227d537029)
-                                                                              STUDENTS USER LOGIN:-
-                                                                              ![image](https://github.com/user-attachments/assets/db049e6b-beb3-49e1-b65a-664df5e9aef9)
-                                                                            Admin Area:-
-                                                                            ![image](https://github.com/user-attachments/assets/17d8d535-27aa-438d-b90a-78d72abd6d38)
+ DELETE STUDENTS DETAILS: - 
+ ![image](https://github.com/user-attachments/assets/b94f243d-fdf0-4924-bcad-8e227d537029)
+STUDENTS USER LOGIN:-
+![image](https://github.com/user-attachments/assets/db049e6b-beb3-49e1-b65a-664df5e9aef9)
+Admin Area:-
+![image](https://github.com/user-attachments/assets/17d8d535-27aa-438d-b90a-78d72abd6d38)
 4.2 MODULE DESCRIPTION
 4.2.1 Admin Login:-
 	![image](https://github.com/user-attachments/assets/0abb3361-0933-4a1c-8a8c-0fc2c47cf26d)
@@ -246,14 +246,31 @@ There is a future scope  of this facility that many more features such as online
 
  REFERENCES 
 
-•       Code With Harry 
+•       Code With Harry
+
+ 
+
 •       https://www.w3schools.com/python/
+
+
 •	https://www.tutorialspoint.com/python/python_modules.htm
+
+
 •	https://pypi.org/
+
+
 •	http://www.techaccess.co.in/
+
+
 •	https://pypi.org/project/PyMySQL/
+
+
 •	https://numpy.org/
+
+
 •	https://docs.python.org/3/library/tkinter.html
+
+
 •	Yashwant Kanethkar Python Book
 
 								This Product is Maded by DHRUV GUPTA
